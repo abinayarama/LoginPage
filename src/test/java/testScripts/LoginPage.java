@@ -9,6 +9,7 @@ public class LoginPage {
 		// TODO Auto-generated method stub
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://id.heroku.com/login");
+		System.out.println("New branch created");
 		
 
 	}
